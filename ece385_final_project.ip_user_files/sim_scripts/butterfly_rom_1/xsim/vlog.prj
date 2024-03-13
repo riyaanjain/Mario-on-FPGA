@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../ece385_final_project.gen/sources_1/ip/butterfly_rom_1/sim/butterfly_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

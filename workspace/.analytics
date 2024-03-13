@@ -1,0 +1,206 @@
+timestamp=[2023-11-12 19:17:12], mode=WORKBENCH_START, duration=0:00:07.763, duration_ms=7763, data={}
+timestamp=[2023-11-12 19:17:13], mode=WORKBENCH_UI_INIT, duration=0:00:00.601, duration_ms=601, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-11-12 19:17:14], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.114, duration_ms=114, data={}
+timestamp=[2023-11-12 19:17:53], mode=APP_CREATION, duration=0:00:06.255, duration_ms=6255, data={name=final_project, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=butterfly_test, application_type=application}
+timestamp=[2023-11-12 19:21:08], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.030, duration_ms=30, data={}
+timestamp=[2023-11-12 19:21:09], mode=WORKBENCH_START, duration=0:00:08.738, duration_ms=8738, data={}
+timestamp=[2023-11-12 19:21:10], mode=WORKBENCH_UI_INIT, duration=0:00:01.082, duration_ms=1082, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-12 19:23:35], mode=PLATFORM_GENERATION, duration=0:00:08.095, duration_ms=8095, data={name=butterfly_test}
+timestamp=[2023-11-12 19:23:36], mode=BUILD, duration=0:00:01.046, duration_ms=1046, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-12 19:25:42], mode=WORKBENCH_START, duration=0:00:07.414, duration_ms=7414, data={}
+timestamp=[2023-11-12 19:25:43], mode=WORKBENCH_UI_INIT, duration=0:00:01.009, duration_ms=1009, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-12 19:26:06], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.095, duration_ms=95, data={}
+timestamp=[2023-11-12 19:36:04], mode=PLATFORM_GENERATION, duration=0:00:09.878, duration_ms=9878, data={name=butterfly_test}
+timestamp=[2023-11-12 19:36:08], mode=BUILD, duration=0:00:03.712, duration_ms=3712, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-12 19:36:09], mode=BUILD, duration=0:00:00.361, duration_ms=361, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-12 19:52:04], mode=PLATFORM_GENERATION, duration=0:00:13.341, duration_ms=13341, data={name=butterfly_test}
+timestamp=[2023-11-12 19:52:26], mode=BUILD, duration=0:00:03.848, duration_ms=3848, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-12 19:52:28], mode=BUILD, duration=0:00:00.343, duration_ms=343, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 18:48:57], mode=PLATFORM_GENERATION, duration=0:00:06.370, duration_ms=6370, data={name=butterfly_test}
+timestamp=[2023-11-13 18:48:58], mode=BUILD, duration=0:00:00.432, duration_ms=432, data={name=final_project, configuration=Debug, clean_build=true}
+timestamp=[2023-11-13 18:48:58], mode=BUILD, duration=0:00:00.352, duration_ms=352, data={name=final_project_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-13 18:49:03], mode=PLATFORM_GENERATION, duration=0:00:04.719, duration_ms=4719, data={name=butterfly_test}
+timestamp=[2023-11-13 18:49:03], mode=BUILD, duration=0:00:00.462, duration_ms=462, data={name=final_project, configuration=Debug, clean_build=true}
+timestamp=[2023-11-13 18:49:04], mode=BUILD, duration=0:00:00.562, duration_ms=562, data={name=final_project_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-13 18:49:20], mode=PLATFORM_GENERATION, duration=0:00:15.938, duration_ms=15938, data={name=butterfly_test}
+timestamp=[2023-11-13 18:49:25], mode=BUILD, duration=0:00:04.601, duration_ms=4601, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 18:49:27], mode=BUILD, duration=0:00:00.300, duration_ms=300, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 18:49:28], mode=BUILD, duration=0:00:00.568, duration_ms=568, data={name=final_project, configuration=Debug, clean_build=true}
+timestamp=[2023-11-13 18:49:32], mode=BUILD, duration=0:00:03.827, duration_ms=3827, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 18:49:33], mode=BUILD, duration=0:00:00.518, duration_ms=518, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 18:51:56], mode=WORKBENCH_START, duration=0:00:11.673, duration_ms=11673, data={}
+timestamp=[2023-11-13 18:51:58], mode=WORKBENCH_UI_INIT, duration=0:00:01.326, duration_ms=1326, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-13 18:51:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.104, duration_ms=104, data={}
+timestamp=[2023-11-13 20:31:27], mode=PLATFORM_GENERATION, duration=0:00:04.953, duration_ms=4953, data={name=butterfly_test}
+timestamp=[2023-11-13 20:31:35], mode=PLATFORM_GENERATION, duration=0:00:07.540, duration_ms=7540, data={name=butterfly_test}
+timestamp=[2023-11-13 20:31:38], mode=BUILD, duration=0:00:02.621, duration_ms=2621, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 20:31:39], mode=BUILD, duration=0:00:00.246, duration_ms=246, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 20:44:02], mode=PLATFORM_GENERATION, duration=0:00:08.915, duration_ms=8915, data={name=butterfly_test}
+timestamp=[2023-11-13 20:44:05], mode=BUILD, duration=0:00:02.266, duration_ms=2266, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 20:44:06], mode=BUILD, duration=0:00:00.203, duration_ms=203, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-13 21:37:21], mode=PLATFORM_GENERATION, duration=0:00:08.416, duration_ms=8416, data={name=butterfly_test}
+timestamp=[2023-11-14 19:34:14], mode=PLATFORM_GENERATION, duration=0:00:14.482, duration_ms=14482, data={name=butterfly_test}
+timestamp=[2023-11-14 19:34:18], mode=BUILD, duration=0:00:03.645, duration_ms=3645, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-14 19:34:20], mode=BUILD, duration=0:00:00.280, duration_ms=280, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 17:32:45], mode=WORKBENCH_START, duration=0:00:06.509, duration_ms=6509, data={}
+timestamp=[2023-11-15 17:32:46], mode=WORKBENCH_UI_INIT, duration=0:00:00.737, duration_ms=737, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-15 17:32:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.066, duration_ms=66, data={}
+timestamp=[2023-11-15 17:35:06], mode=WORKBENCH_START, duration=0:00:06.230, duration_ms=6230, data={}
+timestamp=[2023-11-15 17:35:06], mode=WORKBENCH_UI_INIT, duration=0:00:00.632, duration_ms=632, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-15 17:35:07], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.058, duration_ms=58, data={}
+timestamp=[2023-11-15 17:39:24], mode=WORKBENCH_START, duration=0:00:06.708, duration_ms=6708, data={}
+timestamp=[2023-11-15 17:39:25], mode=WORKBENCH_UI_INIT, duration=0:00:00.771, duration_ms=771, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-15 17:39:26], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.048, duration_ms=48, data={}
+timestamp=[2023-11-15 17:45:34], mode=WORKBENCH_START, duration=0:00:06.257, duration_ms=6257, data={}
+timestamp=[2023-11-15 17:45:35], mode=WORKBENCH_UI_INIT, duration=0:00:00.850, duration_ms=850, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-15 17:45:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.047, duration_ms=47, data={}
+timestamp=[2023-11-15 19:12:04], mode=WORKBENCH_START, duration=0:00:16.556, duration_ms=16556, data={}
+timestamp=[2023-11-15 19:12:05], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.198, duration_ms=198, data={}
+timestamp=[2023-11-15 19:12:06], mode=WORKBENCH_UI_INIT, duration=0:00:02.123, duration_ms=2123, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-15 19:37:53], mode=PLATFORM_GENERATION, duration=0:00:15.223, duration_ms=15223, data={name=butterfly_test}
+timestamp=[2023-11-15 19:37:57], mode=BUILD, duration=0:00:03.936, duration_ms=3936, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 19:37:59], mode=BUILD, duration=0:00:00.326, duration_ms=326, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 19:49:33], mode=PLATFORM_GENERATION, duration=0:00:12.786, duration_ms=12786, data={name=butterfly_test}
+timestamp=[2023-11-15 19:50:30], mode=PLATFORM_GENERATION, duration=0:00:11.615, duration_ms=11615, data={name=butterfly_test}
+timestamp=[2023-11-15 19:59:46], mode=PLATFORM_GENERATION, duration=0:00:12.341, duration_ms=12341, data={name=butterfly_test}
+timestamp=[2023-11-15 19:59:52], mode=BUILD, duration=0:00:03.501, duration_ms=3501, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 19:59:54], mode=BUILD, duration=0:00:00.396, duration_ms=396, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:13:54], mode=PLATFORM_GENERATION, duration=0:00:12.883, duration_ms=12883, data={name=butterfly_test}
+timestamp=[2023-11-15 20:13:58], mode=BUILD, duration=0:00:03.282, duration_ms=3282, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:13:59], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:25:12], mode=PLATFORM_GENERATION, duration=0:00:13.083, duration_ms=13083, data={name=butterfly_test}
+timestamp=[2023-11-15 20:25:16], mode=BUILD, duration=0:00:03.656, duration_ms=3656, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:25:18], mode=BUILD, duration=0:00:00.305, duration_ms=305, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:33:04], mode=PLATFORM_GENERATION, duration=0:00:13.368, duration_ms=13368, data={name=butterfly_test}
+timestamp=[2023-11-15 20:33:07], mode=BUILD, duration=0:00:03.174, duration_ms=3174, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:33:08], mode=BUILD, duration=0:00:00.273, duration_ms=273, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:40:21], mode=PLATFORM_GENERATION, duration=0:00:07.560, duration_ms=7560, data={name=butterfly_test}
+timestamp=[2023-11-15 20:40:23], mode=BUILD, duration=0:00:02.102, duration_ms=2102, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:40:24], mode=BUILD, duration=0:00:00.220, duration_ms=220, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:45:58], mode=PLATFORM_GENERATION, duration=0:00:07.677, duration_ms=7677, data={name=butterfly_test}
+timestamp=[2023-11-15 20:46:00], mode=BUILD, duration=0:00:01.844, duration_ms=1844, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:46:00], mode=BUILD, duration=0:00:00.213, duration_ms=213, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:46:08], mode=PLATFORM_GENERATION, duration=0:00:03.451, duration_ms=3451, data={name=butterfly_test}
+timestamp=[2023-11-15 20:46:08], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=final_project, configuration=Debug, clean_build=true}
+timestamp=[2023-11-15 20:46:09], mode=BUILD, duration=0:00:00.550, duration_ms=550, data={name=final_project_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-15 20:46:15], mode=PLATFORM_GENERATION, duration=0:00:06.164, duration_ms=6164, data={name=butterfly_test}
+timestamp=[2023-11-15 20:46:18], mode=BUILD, duration=0:00:02.604, duration_ms=2604, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 20:46:18], mode=BUILD, duration=0:00:00.204, duration_ms=204, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:08:13], mode=PLATFORM_GENERATION, duration=0:00:15.918, duration_ms=15918, data={name=butterfly_test}
+timestamp=[2023-11-15 21:08:18], mode=BUILD, duration=0:00:04.330, duration_ms=4330, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:08:19], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:15:40], mode=PLATFORM_GENERATION, duration=0:00:11.736, duration_ms=11736, data={name=butterfly_test}
+timestamp=[2023-11-15 21:15:43], mode=BUILD, duration=0:00:03.123, duration_ms=3123, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:15:44], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:39:17], mode=PLATFORM_GENERATION, duration=0:00:12.012, duration_ms=12012, data={name=butterfly_test}
+timestamp=[2023-11-15 21:39:21], mode=BUILD, duration=0:00:03.075, duration_ms=3075, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-15 21:39:22], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 16:15:22], mode=PLATFORM_GENERATION, duration=0:00:11.330, duration_ms=11330, data={name=butterfly_test}
+timestamp=[2023-11-16 16:15:25], mode=BUILD, duration=0:00:03.021, duration_ms=3021, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 16:15:27], mode=BUILD, duration=0:00:00.363, duration_ms=363, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 16:53:42], mode=PLATFORM_GENERATION, duration=0:00:22.266, duration_ms=22266, data={name=butterfly_test}
+timestamp=[2023-11-16 16:53:48], mode=BUILD, duration=0:00:05.280, duration_ms=5280, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 16:53:50], mode=BUILD, duration=0:00:00.576, duration_ms=576, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:07:01], mode=PLATFORM_GENERATION, duration=0:00:13.082, duration_ms=13082, data={name=butterfly_test}
+timestamp=[2023-11-16 17:07:05], mode=BUILD, duration=0:00:03.169, duration_ms=3169, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:07:06], mode=BUILD, duration=0:00:00.284, duration_ms=284, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:17:32], mode=PLATFORM_GENERATION, duration=0:00:08.859, duration_ms=8859, data={name=butterfly_test}
+timestamp=[2023-11-16 17:17:35], mode=BUILD, duration=0:00:01.927, duration_ms=1927, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:17:35], mode=BUILD, duration=0:00:00.210, duration_ms=210, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:34:50], mode=PLATFORM_GENERATION, duration=0:00:07.632, duration_ms=7632, data={name=butterfly_test}
+timestamp=[2023-11-16 17:34:52], mode=BUILD, duration=0:00:01.846, duration_ms=1846, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 17:34:53], mode=BUILD, duration=0:00:00.187, duration_ms=187, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 20:54:20], mode=PLATFORM_GENERATION, duration=0:00:09.301, duration_ms=9301, data={name=butterfly_test}
+timestamp=[2023-11-16 20:54:23], mode=BUILD, duration=0:00:02.918, duration_ms=2918, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 20:54:24], mode=BUILD, duration=0:00:00.154, duration_ms=154, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 21:01:26], mode=PLATFORM_GENERATION, duration=0:00:09.161, duration_ms=9161, data={name=butterfly_test}
+timestamp=[2023-11-16 21:01:28], mode=BUILD, duration=0:00:01.957, duration_ms=1957, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-16 21:01:29], mode=BUILD, duration=0:00:00.153, duration_ms=153, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-17 15:32:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.078, duration_ms=78, data={}
+timestamp=[2023-11-17 15:32:12], mode=WORKBENCH_START, duration=0:00:09.261, duration_ms=9261, data={}
+timestamp=[2023-11-17 15:32:13], mode=WORKBENCH_UI_INIT, duration=0:00:01.019, duration_ms=1019, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-17 15:32:44], mode=PLATFORM_GENERATION, duration=0:00:08.356, duration_ms=8356, data={name=butterfly_test}
+timestamp=[2023-11-17 15:32:47], mode=BUILD, duration=0:00:02.235, duration_ms=2235, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-17 15:32:48], mode=BUILD, duration=0:00:00.247, duration_ms=247, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 18:41:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.132, duration_ms=132, data={}
+timestamp=[2023-11-21 18:41:55], mode=WORKBENCH_START, duration=0:00:11.961, duration_ms=11961, data={}
+timestamp=[2023-11-21 18:41:57], mode=WORKBENCH_UI_INIT, duration=0:00:01.551, duration_ms=1551, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-21 18:42:12], mode=BUILD, duration=0:00:00.517, duration_ms=517, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 18:42:13], mode=BUILD, duration=0:00:00.453, duration_ms=453, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:01:21], mode=PLATFORM_GENERATION, duration=0:00:17.826, duration_ms=17826, data={name=butterfly_test}
+timestamp=[2023-11-21 19:01:26], mode=BUILD, duration=0:00:04.505, duration_ms=4505, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:01:28], mode=BUILD, duration=0:00:00.429, duration_ms=429, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:31:36], mode=PLATFORM_GENERATION, duration=0:00:14.821, duration_ms=14821, data={name=butterfly_test}
+timestamp=[2023-11-21 19:31:41], mode=BUILD, duration=0:00:04.537, duration_ms=4537, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:31:43], mode=BUILD, duration=0:00:00.598, duration_ms=598, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:44:28], mode=PLATFORM_GENERATION, duration=0:00:06.351, duration_ms=6351, data={name=butterfly_test}
+timestamp=[2023-11-21 19:44:42], mode=PLATFORM_GENERATION, duration=0:00:13.832, duration_ms=13832, data={name=butterfly_test}
+timestamp=[2023-11-21 19:44:48], mode=BUILD, duration=0:00:05.248, duration_ms=5248, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:44:50], mode=BUILD, duration=0:00:00.512, duration_ms=512, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 20:06:35], mode=PLATFORM_GENERATION, duration=0:00:08.864, duration_ms=8864, data={name=butterfly_test}
+timestamp=[2023-11-21 20:06:38], mode=BUILD, duration=0:00:02.125, duration_ms=2125, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 20:06:39], mode=BUILD, duration=0:00:00.213, duration_ms=213, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-24 18:16:15], mode=PLATFORM_GENERATION, duration=0:00:15.959, duration_ms=15959, data={name=butterfly_test}
+timestamp=[2023-11-24 18:16:21], mode=BUILD, duration=0:00:05.758, duration_ms=5758, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-24 18:16:23], mode=BUILD, duration=0:00:00.445, duration_ms=445, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:17:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.192, duration_ms=192, data={}
+timestamp=[2023-11-28 18:17:19], mode=WORKBENCH_START, duration=0:00:18.679, duration_ms=18679, data={}
+timestamp=[2023-11-28 18:17:21], mode=WORKBENCH_UI_INIT, duration=0:00:02.519, duration_ms=2519, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-11-28 18:18:32], mode=PLATFORM_GENERATION, duration=0:00:15.321, duration_ms=15321, data={name=butterfly_test}
+timestamp=[2023-11-28 18:18:37], mode=BUILD, duration=0:00:04.197, duration_ms=4197, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:18:39], mode=BUILD, duration=0:00:00.465, duration_ms=465, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 20:18:17], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.128, duration_ms=128, data={}
+timestamp=[2023-12-01 20:18:18], mode=WORKBENCH_START, duration=0:00:10.981, duration_ms=10981, data={}
+timestamp=[2023-12-01 20:18:19], mode=WORKBENCH_UI_INIT, duration=0:00:00.937, duration_ms=937, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-12-01 20:18:55], mode=PLATFORM_GENERATION, duration=0:00:13.388, duration_ms=13388, data={name=butterfly_test}
+timestamp=[2023-12-01 20:19:00], mode=BUILD, duration=0:00:03.927, duration_ms=3927, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 20:19:01], mode=BUILD, duration=0:00:00.378, duration_ms=378, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 21:05:51], mode=PLATFORM_GENERATION, duration=0:00:17.308, duration_ms=17308, data={name=butterfly_test}
+timestamp=[2023-12-02 21:06:00], mode=BUILD, duration=0:00:06.857, duration_ms=6857, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 21:06:02], mode=BUILD, duration=0:00:00.583, duration_ms=583, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 21:24:57], mode=PLATFORM_GENERATION, duration=0:00:15.343, duration_ms=15343, data={name=butterfly_test}
+timestamp=[2023-12-02 21:25:03], mode=BUILD, duration=0:00:04.436, duration_ms=4436, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 21:25:04], mode=BUILD, duration=0:00:00.324, duration_ms=324, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 22:14:35], mode=PLATFORM_GENERATION, duration=0:00:14.414, duration_ms=14414, data={name=butterfly_test}
+timestamp=[2023-12-02 22:14:39], mode=BUILD, duration=0:00:03.977, duration_ms=3977, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 22:14:40], mode=BUILD, duration=0:00:00.373, duration_ms=373, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 23:05:12], mode=PLATFORM_GENERATION, duration=0:00:12.449, duration_ms=12449, data={name=butterfly_test}
+timestamp=[2023-12-02 23:05:16], mode=BUILD, duration=0:00:02.978, duration_ms=2978, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 23:05:17], mode=BUILD, duration=0:00:00.372, duration_ms=372, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-03 16:18:08], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.146, duration_ms=146, data={}
+timestamp=[2023-12-03 16:18:10], mode=WORKBENCH_START, duration=0:00:17.651, duration_ms=17651, data={}
+timestamp=[2023-12-03 16:18:12], mode=WORKBENCH_UI_INIT, duration=0:00:01.682, duration_ms=1682, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
+timestamp=[2023-12-03 16:47:42], mode=PLATFORM_GENERATION, duration=0:00:17.761, duration_ms=17761, data={name=butterfly_test}
+timestamp=[2023-12-03 16:47:49], mode=BUILD, duration=0:00:05.459, duration_ms=5459, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-03 16:47:51], mode=BUILD, duration=0:00:00.545, duration_ms=545, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-03 17:14:20], mode=PLATFORM_GENERATION, duration=0:00:09.862, duration_ms=9862, data={name=butterfly_test}
+timestamp=[2023-12-03 17:14:23], mode=BUILD, duration=0:00:02.733, duration_ms=2733, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-03 17:14:24], mode=BUILD, duration=0:00:00.431, duration_ms=431, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:32:39], mode=PLATFORM_GENERATION, duration=0:00:14.513, duration_ms=14513, data={name=butterfly_test}
+timestamp=[2023-12-04 16:32:44], mode=BUILD, duration=0:00:03.680, duration_ms=3680, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:32:45], mode=BUILD, duration=0:00:00.375, duration_ms=375, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:50:39], mode=PLATFORM_GENERATION, duration=0:00:12.719, duration_ms=12719, data={name=butterfly_test}
+timestamp=[2023-12-04 16:50:45], mode=BUILD, duration=0:00:04.495, duration_ms=4495, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 16:50:46], mode=BUILD, duration=0:00:00.291, duration_ms=291, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:16:59], mode=PLATFORM_GENERATION, duration=0:00:13.192, duration_ms=13192, data={name=butterfly_test}
+timestamp=[2023-12-04 17:17:03], mode=BUILD, duration=0:00:03.383, duration_ms=3383, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:17:04], mode=BUILD, duration=0:00:00.287, duration_ms=287, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:25:43], mode=PLATFORM_GENERATION, duration=0:00:14.285, duration_ms=14285, data={name=butterfly_test}
+timestamp=[2023-12-04 17:25:48], mode=BUILD, duration=0:00:03.821, duration_ms=3821, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:25:49], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:44:31], mode=PLATFORM_GENERATION, duration=0:00:13.173, duration_ms=13173, data={name=butterfly_test}
+timestamp=[2023-12-04 17:44:36], mode=BUILD, duration=0:00:03.619, duration_ms=3619, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:44:37], mode=BUILD, duration=0:00:00.417, duration_ms=417, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:07:52], mode=PLATFORM_GENERATION, duration=0:00:07.923, duration_ms=7923, data={name=butterfly_test}
+timestamp=[2023-12-04 18:07:53], mode=BUILD, duration=0:00:00.710, duration_ms=710, data={name=final_project, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 18:07:54], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=final_project_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 18:08:12], mode=PLATFORM_GENERATION, duration=0:00:17.152, duration_ms=17152, data={name=butterfly_test}
+timestamp=[2023-12-04 18:08:18], mode=BUILD, duration=0:00:05.301, duration_ms=5301, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:08:19], mode=BUILD, duration=0:00:00.382, duration_ms=382, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:17:38], mode=PLATFORM_GENERATION, duration=0:00:03.291, duration_ms=3291, data={name=butterfly_test}
+timestamp=[2023-12-04 18:17:55], mode=PLATFORM_GENERATION, duration=0:00:17.153, duration_ms=17153, data={name=butterfly_test}
+timestamp=[2023-12-04 18:18:00], mode=BUILD, duration=0:00:04.478, duration_ms=4478, data={name=final_project, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:18:01], mode=BUILD, duration=0:00:00.363, duration_ms=363, data={name=final_project_system, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 18:35:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.110, duration_ms=110, data={}
+timestamp=[2023-12-04 18:35:18], mode=WORKBENCH_START, duration=0:00:10.371, duration_ms=10371, data={}
+timestamp=[2023-12-04 18:35:20], mode=WORKBENCH_UI_INIT, duration=0:00:01.619, duration_ms=1619, data={editors_count=8, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,butterfly_test,final_project,final_project_system}
